@@ -1,0 +1,79 @@
+body{
+	font-size: 20px;
+	line-height: :1.6em;
+	color:#555;
+	background-color: #f4f4f4;
+	font-family: Bookman;
+	text-align: center; 
+	margin: 0%;
+	background-image: url('background.png');
+}
+
+.container{
+	width:80%
+	margin:auto;
+	overflow:hidden;
+	text-align: center;
+
+}
+
+#Heading{
+	background-color:black;
+	background-image: url('moon.jpg');
+	color:#fff;
+	font-family: Courier;
+	font-weight:bold;
+}
+#textDisplay {
+	border-radius: 5px;
+	box-sizing: border-box;
+	text-align: center;
+	width: auto;
+	height: 150px; 
+	background: black;
+	font-size: 2em;
+	color: white;
+	padding: 20px 20px 20px 20px;
+	margin: 100px;
+	position: relative;
+	font-weight: bold;
+
+  
+}
+
+#text{
+	border-radius: 5px;
+	background: #333;
+	width:600px;
+	height:300px;
+	font-size: 2em;
+	overflow: auto;
+	padding: 20px 20px 20px 20px;
+	margin: 100px;
+	margin-top: 0px;
+}
+
+#reload{
+		border-radius: 20px;
+		color:white;
+		font-size:20px;
+		width: 100px;
+		height: 50px;
+		margin: 10px;
+		margin-top:5px;
+		background:black; 
+}
+#subheading{
+	border-radius: 5px;
+	box-sizing: border-box;
+	text-align: center;
+	width: auto;
+	height: 50px; 
+	background: #3D3C3A;
+	font-size: 1.5em;
+	color: white;
+	margin: 100px;
+	margin-bottom: 0px;
+	padding:auto;
+	position: relative;
+}
