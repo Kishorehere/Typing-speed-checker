@@ -3,7 +3,6 @@
 This front-end application helps find the typing speed of a particular user.
 
 
-----
 
 
 ## About 
